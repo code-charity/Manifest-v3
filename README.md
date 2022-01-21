@@ -4,7 +4,7 @@
 
 ### https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/
 
-# Extension Developers have to ally now, to get this done as well & automatic as possible. Join us! 
+# Extension Developers have to ally now, to get this done as well & as automatically as possible. Join us! 
  
 <br><br><img alt="timeline from google chrome" width="600px" src="https://user-images.githubusercontent.com/25022245/134730996-f61d85fe-9513-427e-ac5d-af1c246c03f4.png" >
 
