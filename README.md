@@ -9,7 +9,7 @@
  
 <br><br><img alt="timeline from google chrome" width="600px" src="https://user-images.githubusercontent.com/25022245/134730996-f61d85fe-9513-427e-ac5d-af1c246c03f4.png" >
 
-#### Web Store Archival: https://wiki.archiveteam.org/index.php/Chrome_Web_Store (should run again on/before december 31)
+#### Web Store Archival: [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) (should run again on/before december 31)
 
 --- 
 
