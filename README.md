@@ -1,7 +1,4 @@
 <div align="center"> 
-
-#### <code>📟 Related:</code> [automatically updating all browser extension stores?](https://github.com/code-for-charity/YouTube-Extension/issues/842#issuecomment-812566767)(through Store APIs & Github actions)  
-
 <img alt="calm tea" height="88px" src="https://user-images.githubusercontent.com/25022245/134731283-fa5aac7c-ecb4-4c1e-8a87-65ad52f3776e.png">                             
   <h2>  Converting Browser Extensions From Manifest v2 to Manifest v3</h2>
 
@@ -14,5 +11,7 @@
 
 #### Web Store Archival: https://wiki.archiveteam.org/index.php/Chrome_Web_Store (should run again on/before december 31)
 
- 
+--- 
+
+#### <code>📟 Related:</code> [automatically updating all browser extension stores?](https://github.com/code-for-charity/YouTube-Extension/issues/842#issuecomment-812566767)(through Store APIs & Github actions)  
 </div>
