@@ -1,5 +1,5 @@
 #### Let's not just watch Mf2 extensions expire for xx Million Users!
-<div align="center">  <img alt="timeline from google chrome" width="600px" src="https://user-images.githubusercontent.com/25022245/134730996-f61d85fe-9513-427e-ac5d-af1c246c03f4.png" >
+<div align="center"> <a href="https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/" ><img width="550px" src="https://user-images.githubusercontent.com/25022245/220762308-acd33a68-438a-4afb-a88c-a9751ac85474.png"> </a> <img alt="timeline from google chrome" width="150px" src="https://user-images.githubusercontent.com/25022245/134730996-f61d85fe-9513-427e-ac5d-af1c246c03f4.png" ><br>
 <img alt="calm tea" height="50px" src="https://user-images.githubusercontent.com/25022245/134731283-fa5aac7c-ecb4-4c1e-8a87-65ad52f3776e.png">                             
   <h2>  Let's convert Browser Extensions From Manifest v2 to Manifest v3  systematically</h2>
 
