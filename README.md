@@ -14,10 +14,10 @@
 
 - [ ]  https://developer.chrome.com/docs/extensions/mv3/intro/mv3-migration/ <br> <img width="515" alt="fetch manifest3" src="https://user-images.githubusercontent.com/25022245/220757620-f6471753-3553-43db-83c9-4dac9c89b84e.png">
 
- - [ ] **Web Store Archival:** [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) ( Should run again on/before december 31 )  <br>
+ - [ ] **Web Store Archival:** [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) ( Should run again on/before december 31 <del> 2022 <del> 2023? )  <br>
 
 
- - While we already develope one of the best Extensions ourself (for ~500000 users),  this is bigger / more urgent.
+ - While we already develope one of the best Extensions ourself (for ~500000 users),  <del> this is bigger / more urgent. </del> (written before it was postponed unclearly) 
 
 ---
 
