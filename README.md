@@ -9,8 +9,11 @@
  <h3>  Can we convert Browser Extensions from Mf2 to Mf3 efficiently / systematically / in bulk? </h3>
 
 <div align="right"> 
-- [x] 📟 [developer.chrome.com/blog/**Longer extension service worker lifetimes**](https://developer.chrome.com/blog/longer-esw-lifetimes/)   
- </div>
+ 
+- [x] 📟 [developer.chrome.com/blog/**Longer extension service worker lifetimes**](https://developer.chrome.com/blog/longer-esw-lifetimes/)    
+
+</div>
+
 - [ ] [developer.chrome.com/mv3-**overview**](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/)
 
 - [ ] [developer.chrome.com/mv3-**migration**](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-migration/) <br> <img width="515" alt="fetch manifest3" src="https://user-images.githubusercontent.com/25022245/220757620-f6471753-3553-43db-83c9-4dac9c89b84e.png">
