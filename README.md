@@ -20,7 +20,7 @@
 
 - [ ] **Web Store Archival:** [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) ( Should run again just before <del> 2023 <del> 2024? )  <br>
 
- - ( While we already develope one of the best Extensions ourselves (for ~500000 users),  <del> this is bigger / more urgent.</del>  (written before it was postponed unclearly)  )
+ - ( While we already tediously develope a unique Extensions ourselves (for ~500000 users),  this is bigger / more urgent. (written before it was postponed unclearly. The new deadline is June 2024)  )
 
 ---
 ---
