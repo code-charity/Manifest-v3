@@ -18,9 +18,9 @@
 
 - [ ] [developer.chrome.com/mv3-**migration**](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-migration/) <br> <img width="515" alt="fetch manifest3" src="https://user-images.githubusercontent.com/25022245/220757620-f6471753-3553-43db-83c9-4dac9c89b84e.png">
 
-- [ ] **Web Store Archival:** [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) ( Should run again just before <del> 2023 <del> 2024? )  <br>
+- [ ] **Web Store Archival:** [wiki.archiveteam.org/Chrome_Web_Store](https://wiki.archiveteam.org/index.php/Chrome_Web_Store) ( Should run again just before <del> 2023 </del> June 2024? )  <br>
 
- - ( While we already tediously develope a unique Extensions ourselves (for ~500000 users),  this is bigger / more urgent. (written before it was postponed unclearly. The new deadline is June 2024)  )
+ - ( While we already maintain a unique Extensions ourselves for ~500000 users,  this is bigger / more urgent. )
 
 ---
 ---
